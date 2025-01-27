@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Bella
+// 1/24/25
 // Fix the Errors #2 Programming Project
 // COSC 1030
 //
@@ -13,18 +13,16 @@ using namespace std;
 
 int main()
 {
+    float number;
+    float divider = 2.0; // Changed to 2.0 to calculate half of the number
 
-	float number;
-	int divider;
-	divider = 0;
+    cout << "Hi there" << endl;
+    cout << "Please input a number and then hit return" << endl;
+    cin >> number;
 
-	cout << "Hi there" << endl;
-	cout << "Please input a number and then hit return" << endl;
-	cin >> number;
+    number = number / divider;
 
-	number = number / divider;
+    cout << "Half of your number is " << number << endl;
 
-	cout << "Half of your number is " << number << endl;
-
-	return 0;
+    return 0;
 }
