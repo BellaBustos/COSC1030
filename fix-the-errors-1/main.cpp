@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Bella Bustos
+// 1/25/25
 // Fix the Errors #1 Programming Project
 // COSC 1030
 //
